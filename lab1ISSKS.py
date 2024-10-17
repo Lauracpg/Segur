@@ -65,5 +65,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
-##2.ariketan bajar imagen carpeta porque ha cambiado algo 
